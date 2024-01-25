@@ -77,7 +77,7 @@ This is a great chance to test out your fuzzing and Formal Verification skills.
 
 ```
 git clone https://github.com/Cyfrin/2024-01-math-master
-cd 2024-1-math-master
+cd 2024-01-math-master
 make
 ```
 
