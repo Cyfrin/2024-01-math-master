@@ -11,7 +11,7 @@
 - Low - 2xp
 
 - Starts: January 25, 2024 Noon UTC
-- Ends: January 02, 2024 Noon UTC
+- Ends: February 02, 2024 Noon UTC
 
 ### Stats
 
