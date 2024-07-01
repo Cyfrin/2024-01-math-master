@@ -1,6 +1,22 @@
-<p align="center">
-<img src="https://res.cloudinary.com/droqoz7lg/image/upload/c_pad,ar_1:1/v1705943138/math-master_ctp4wc.png" width="400" alt="math-master">
-<br/>
+# First Flight #8: Math Masters
+
+- [Contest Details](#contest-details)
+    - [Prize Pool](#prize-pool)
+    - [Stats](#stats)
+- [Math Master](#math-master)
+- [About](#about)
+- [Getting Started](#getting-started)
+  - [Requirements](#requirements)
+  - [Quickstart](#quickstart)
+- [Usage](#usage)
+  - [Testing](#testing)
+    - [Test Coverage](#test-coverage)
+- [Audit Scope Details](#audit-scope-details)
+  - [Compatibilities](#compatibilities)
+- [Roles](#roles)
+- [Known Issues](#known-issues)
+
+[//]: # (contest-details-open)
 
 # Contest Details
 
@@ -24,22 +40,6 @@ _This codebase was inspired by the [solady](https://github.com/Vectorized/solady
 
 _We will teach how to do Formal Verification and assembly in the upcoming Cyfrin Updraft course._
 
-- [Contest Details](#contest-details)
-    - [Prize Pool](#prize-pool)
-    - [Stats](#stats)
-- [Math Master](#math-master)
-- [About](#about)
-- [Getting Started](#getting-started)
-  - [Requirements](#requirements)
-  - [Quickstart](#quickstart)
-- [Usage](#usage)
-  - [Testing](#testing)
-    - [Test Coverage](#test-coverage)
-- [Audit Scope Details](#audit-scope-details)
-  - [Compatibilities](#compatibilities)
-- [Roles](#roles)
-- [Known Issues](#known-issues)
-
 # About
 
 Welcome to the future of web3! We, the math MASTERS are titans of the algebraic and gas efficient. We have created a small library called `MathMasters` where we have the following functions/terms defined:
@@ -61,6 +61,10 @@ We are especially concerned with any function doing something "weird" at the EVM
 We expect any solidity project using version `^0.8.3` or above should be able to use our codebase. If not, that should be considered a vulnerability as well.
 
 This is a great chance to test out your fuzzing and Formal Verification skills.
+
+[//]: # (contest-details-close)
+
+[//]: # (getting-started-open)
 
 # Getting Started
 
@@ -101,6 +105,10 @@ and for coverage based testing:
 forge coverage --report debug
 ```
 
+[//]: # (getting-started-close)
+
+[//]: # (scope-open)
+
 # Audit Scope Details
 
 - Commit Hash:
@@ -119,10 +127,12 @@ Hash:
 - Tokens:
   - None
 
-# Roles
+[//]: # (scope-close)
 
-None
+[//]: # (known-issues-open)
 
 # Known Issues
 
 None
+
+[//]: # (known-issues-close)
