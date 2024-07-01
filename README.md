@@ -16,8 +16,6 @@
 - [Roles](#roles)
 - [Known Issues](#known-issues)
 
-[//]: # (contest-details-open)
-
 # Contest Details
 
 ### Prize Pool
@@ -33,6 +31,8 @@
 
 - nSLOC: 46
 - Complexity Score: 276
+
+[//]: # (contest-details-open)
 
 # Math Master
 
